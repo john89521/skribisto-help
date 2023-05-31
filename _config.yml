@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
+title: Future Skribisto Web Help
 description: A simple template based on minimal jekyll theme, https://kut.ai/gh-pages-template/setup
 show_downloads: True
 navigation:
@@ -7,3 +7,5 @@ navigation:
     url: /
   - title: Setup
     url: setup
+  - title: Start Here
+    url: Start Here
