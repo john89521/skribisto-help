@@ -1,5 +1,6 @@
 # Start Here
-## The Interface
+## The Welcome Screen
+![welcome-page](https://github.com/john89521/john89521.github.io/assets/124628804/cf8a0303-cc95-4d28-bc1f-ff921b93ccd2)
 
 | Button | Description |
 |--------|-------------|
