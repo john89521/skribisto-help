@@ -1,7 +1,4 @@
 # Start Here
-## The Interface
-![Skribisto UI](https://github.com/john89521/john89521.github.io/assets/124628804/8e071e09-938c-4099-9ed6-d05c72d5c288)
-
 
 # Welcome Page
 ![welcome-page](https://github.com/john89521/john89521.github.io/assets/124628804/2ba3ce36-9bf1-4a13-bdb3-bc1ea3c44d0d)
