@@ -3,8 +3,8 @@
 
 | Number   | Field       | Description |
 |----------| ----------- |-------------|
-| word     | word        | word        |
-| word     | word        | word        |
+| 1     | Main Menu        | Reveals File, Edit, View, Settings, Hlep, and Quit        |
+| 2     | Show Welcome Screen        | [Reveals the Welcome Screen(https://john89521.github.io/Start%20Here)        |
 | word     | word        | word        |
 | word     | word        | word        |
 | word     | word        | word        |
