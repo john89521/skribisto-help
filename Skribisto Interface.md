@@ -3,7 +3,7 @@
 
 | Number   | Field       | Description |
 |----------| ----------- |-------------|
-| 1     | Main Menu        | Reveals File, Edit, View, Settings, Help, and Quit        |
+| 1     | [Main Menu](https://github.com/john89521/john89521.github.io/blob/master/Main%20Menu.md)        | Reveals File, Edit, View, Settings, Help, and Quit        |
 | 2     | Show Welcome Screen        | [Reveals the Welcome Screen](https://john89521.github.io/Start%20Here)        |
 | 3     | Story Title        | Current story being worked on        |
 | 4     | Show Navigation Toolbox        | Displays left navigation pane        |
