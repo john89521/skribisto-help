@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Future Skribisto Web Help
 description: This is a brief overview of the Skribisto writing software interface.  
 The main site is: https://github.com/jacquetc/skribisto  
-A simple template based on minimal jekyll theme, https://kut.ai/gh-pages-template/setup
+This is a simple template based on minimal jekyll theme, https://kut.ai/gh-pages-template/setup
 show_downloads: True
 navigation:
   - title: Home
