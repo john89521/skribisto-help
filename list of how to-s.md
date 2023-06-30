@@ -1,0 +1,11 @@
+How to:
+- Start a New Project
+- Open a Recent Project
+- Deselecting a Menu Panel
+- Accessing the Setting menu
+- Changing text width
+- Changing text size
+- Changing text indent
+- Changing default font
+- Save a project 
+- Save as
