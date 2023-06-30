@@ -11,5 +11,7 @@ navigation:
     url: Skribisto Interface
   - title: Main Menu
     url: Main Menu
+  - title: Starting a New Project
+    url: Starting a New Project
   - title: Template Setup Instructions # this appears in the menu
     url: setup
