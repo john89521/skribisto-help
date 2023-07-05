@@ -1,7 +1,7 @@
 How to:
 - Start a New Project x
 - Open a Recent Project x
-- Deselecting a Menu Panel
+- Deselecting a Menu Panel x
 - Accessing the Setting menu
 - Changing text width
 - Changing text size
