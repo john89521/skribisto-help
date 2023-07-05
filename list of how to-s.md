@@ -1,6 +1,6 @@
 How to:
-- Start a New Project
-- Open a Recent Project
+- Start a New Project x
+- Open a Recent Project x
 - Deselecting a Menu Panel
 - Accessing the Setting menu
 - Changing text width
