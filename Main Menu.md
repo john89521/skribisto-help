@@ -4,15 +4,15 @@
 
 | Field    | Description |
 |----------| ----------- |
-| New Project     | word        |
-| Open     | word        |
-| Print     | word        |
-| Import     | word        |
-| Export     | word        |
-| Save     | word        |
-| Save As     | word        |
-| Save All     | word        |
-| Save a Copy     | word        |
-| Back up     | word        |
-| Close      | word        |
-| Quit     | word        |
+| New Project     | Start a new writing project        |
+| Open     | Open a writing project        |
+| Print     | Print a page or writing project        |
+| Import     | Import a file into Skribisto        |
+| Export     | Export a writing project        |
+| Save     | Save the project        |
+| Save As     | Save the project under a different name        |
+| Save All     | Save all files in a project        |
+| Save a Copy     | Save a copy of the project        |
+| Back up     | Back up the project        |
+| Close      | Close the open writing project        |
+| Quit     | Quit Skribisto        |
