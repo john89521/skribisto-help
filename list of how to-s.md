@@ -2,7 +2,7 @@ How to:
 - Start a New Project x
 - Open a Recent Project x
 - Deselecting a Menu Panel x
-- Accessing the Setting menu
+- Accessing the Setting menu x
 - Changing text width
 - Changing text size
 - Changing text indent
