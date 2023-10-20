@@ -13,9 +13,11 @@ navigation:
     url: Main Menu
   - title: Starting a New Project
     url: Starting a New Project
+  - title: Open a Recent Project
+    url: Open a Recent Project
   - title: Deselecting a Menu Panel
     url: Deselecting a Menu Panel
-  - title: Donate
+- title: Donate
     url:  Donate
   - title: Settings Menu
     url: Settings Menu
